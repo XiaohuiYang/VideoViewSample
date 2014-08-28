@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="android:Theme.NoTitleBar.Fullscreen">
+    </style>
+
+
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+
+</resources>
